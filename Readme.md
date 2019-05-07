@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Олег Лащенко](https://up.htmlacademy.ru/htmlcss/25/user/1073351).
-* Наставник: `Влад Кривокора(Front-end разработчик)`.
+* Наставник: [Влад Кривокора(Front-end разработчик)](https://htmlacademy.ru/profile/krivokora).
 
 ---
 
